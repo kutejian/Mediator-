@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/6eh3yyDv6BZ6AO2t+iP96IEWSu8Z9iHu743KszxnW13fDPM5BTNpZPhi91Fe7LCEebqUhYT/Bj1lEmK/s5DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\Aop_Mediator\\Aop_Mediator\\Aop_Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\30765\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\30765\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
